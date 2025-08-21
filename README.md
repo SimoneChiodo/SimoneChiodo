@@ -42,6 +42,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
+## 📊 Progetti in Evidenza
+
+| 🕹 **[BoolBnB - ReactJs](https://github.com/carlo191/BoolB-B-Front-End.git)** |
+| :---: |
+| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing"> <img src="./boolbnb.png" width="300px" title="Vedi anteprima video" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. |
+
+
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SimoneChiodo&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
