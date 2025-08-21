@@ -46,7 +46,7 @@
 
 | 🕹 **[BoolBnB - ReactJs](https://github.com/carlo191/BoolB-B-Front-End.git)** |
 | :---: |
-| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing"> <img src="./boolbnb.png" width="300px" title="Vedi anteprima video" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. |
+| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing" target="_blank"> <img src="./boolbnb.png" width="300px" title="Vedi anteprima video" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. |
 
 
 
