@@ -46,7 +46,7 @@
 
 | 🏢 **[BoolBnB - ReactJs](https://github.com/carlo191/BoolB-B-Front-End.git)** | 💿 **[VynyleShop - ReactJs](https://github.com/SimoneChiodo/frontend-vynyleshop-vite.git)** |
 | :---: | :---: |
-| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing" target="_blank"> <img src="./boolbnb.png" width="50%" title="Click destro → Apri in una nuova scheda per visualizzare l'anteprima" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/carlo191/BoolB-B-Back-End.git">**Link** al **Backend** sviluppato con **Express**</a> | <img src="./vynyleshop.png" width="50%" /> <br> Sito per la _**vendita di vinili**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/SimoneChiodo/backend-vynyleshop-spring.git">**Link** al **Backend** sviluppato con **Spring**</a> |
+| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing" target="_blank"> <img src="./boolbnb.png" title="Click destro → Apri in una nuova scheda per visualizzare l'anteprima" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/carlo191/BoolB-B-Back-End.git">**Link** al **Backend** sviluppato con **Express**</a> | <img src="./vynyleshop.png" /> <br> Sito per la _**vendita di vinili**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/SimoneChiodo/backend-vynyleshop-spring.git">**Link** al **Backend** sviluppato con **Spring**</a> |
 
 
 
