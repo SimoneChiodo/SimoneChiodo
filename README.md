@@ -46,7 +46,11 @@
 
 | 🏢 **[BoolBnB - ReactJs](https://github.com/carlo191/BoolB-B-Front-End.git)** | 💿 **[VynyleShop - ReactJs](https://github.com/SimoneChiodo/frontend-vynyleshop-vite.git)** |
 | :---: | :---: |
-| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing" target="_blank"> <img src="./boolbnb.png" title="Click destro → Apri in una nuova scheda per visualizzare l'anteprima" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/carlo191/BoolB-B-Back-End.git">**Link** al **Backend** sviluppato con **Express**</a> | <img src="./vynyleshop.png" /> <br> Sito per la _**vendita di vinili**_ sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/SimoneChiodo/backend-vynyleshop-spring.git">**Link** al **Backend** sviluppato con **Spring**</a> |
+| <a href="https://drive.google.com/file/d/1uF9JlgoSPHmQNYV1v9QrRrbbaaq-s1FQ/view?usp=sharing" target="_blank"> <img src="./boolbnb.png" title="Click destro → Apri in una nuova scheda per visualizzare l'anteprima" /> </a> <br> Sito per la _**ricerca di immobili in affitto**_, sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/carlo191/BoolB-B-Back-End.git">**Link** al **Backend** sviluppato con **Express**</a> | <img src="./vynyleshop.png" /> <br> Sito per la _**vendita di vinili**_, sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/SimoneChiodo/backend-vynyleshop-spring.git">**Link** al **Backend** sviluppato con **Spring**</a> |
+
+| 🗺 **[Travel Journal App - Spring](https://github.com/SimoneChiodo/travel-journal-app.git)** | 💣 **[Campo Minato - JavaScript](https://github.com/SimoneChiodo/campo-minato.git)** |
+| :---: | :---: |
+| <img src="./travel_journal_app.png" /> <br> Sito per _**raccogliere i momenti più significativi delle proprie vacanze**_, sviluppato con _**Spring**_ e _**Bootstrap**_. | <img src="./campo_minato.png" /> <br> Sito che _**simula il celebre gioco Campo Minato**_, sviluppato con _**JavaScript**_. |
 
 
 
