@@ -54,6 +54,12 @@
 
 
 
+| 🅰 **[Hello Angular - Angular](https://github.com/SimoneChiodo/hello-angular.git)** |  |
+| :---: | :---: |
+| <img src="./hello_angular.png" /> <br> Progetto formativo creato per _**imparare le basi di Angular, seguendo un corso Udemy**_, sviluppato con _**Angular**_ e _**Bootstrap**_. |  |
+
+
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SimoneChiodo&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
