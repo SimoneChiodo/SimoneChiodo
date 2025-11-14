@@ -1,7 +1,6 @@
 # 👋 Ciao, sono Simone
 
-💻 Sviluppatore **Fullstack** con una passione per l’automazione  
-🛠️ Lavoro principalmente con **Spring** e **React**  
+💻 Sviluppatore **Fullstack** con una passione per l’automazione    
 🚀 Creo/contribuisco a progetti open source  
 💡 Mi piace costruire soluzioni semplici a problemi complessi e condividere ciò che imparo
 
@@ -54,7 +53,7 @@
 
 
 
-| 🅰 **[Hello Angular - Angular](https://github.com/SimoneChiodo/hello-angular.git)** | 🅰 **[TODO Udemy - Angular](https://github.com/SimoneChiodo/django-todo-udemy.git)** |
+| 🅰 **[Hello Angular - Angular](https://github.com/SimoneChiodo/hello-angular.git)** | 🐍 **[TODO Udemy - Django](https://github.com/SimoneChiodo/django-todo-udemy.git)** |
 | :---: | :---: |
 | <img src="./hello_angular.png" /> <br> Progetto formativo creato per _**imparare le basi di Angular, seguendo un corso Udemy**_, sviluppato con _**Angular**_ e _**Bootstrap**_. | <img src="./todo_udemy.png" /> <br> Progetto formativo creato per _**imparare le basi di Django, seguendo un corso Udemy**_, sviluppato con _**Django**_ e _**Bootstrap**_. |
 
