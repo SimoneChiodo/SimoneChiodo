@@ -1,7 +1,6 @@
 # 👋 Ciao, sono Simone
 
-💻 Sviluppatore **Fullstack** con una passione per l’automazione  
-🛠️ Lavoro principalmente con **Spring** e **React**  
+💻 Sviluppatore **Fullstack** con una passione per l’automazione    
 🚀 Creo/contribuisco a progetti open source  
 💡 Mi piace costruire soluzioni semplici a problemi complessi e condividere ciò che imparo
 
