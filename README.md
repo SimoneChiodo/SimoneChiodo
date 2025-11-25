@@ -52,12 +52,13 @@
 | :---: | :---: |
 | <img src="./travel_journal_app.png" /> <br> Sito per _**raccogliere i momenti più significativi delle proprie vacanze**_, sviluppato con _**Spring**_ e _**Bootstrap**_. | <img src="./campo_minato.png" /> <br> Sito che _**simula il celebre gioco Campo Minato**_, sviluppato con _**JavaScript**_. |
 
-
-
-| 🅰 **[Hello Angular - Angular](https://github.com/SimoneChiodo/hello-angular.git)** | 🅰 **[TODO Udemy - Angular](https://github.com/SimoneChiodo/django-todo-udemy.git)** |
+| 🅰 **[Hello Angular - Angular](https://github.com/SimoneChiodo/hello-angular.git)** | 🐍 **[TODO Udemy - Django](https://github.com/SimoneChiodo/django-todo-udemy.git)** |
 | :---: | :---: |
 | <img src="./hello_angular.png" /> <br> Progetto formativo creato per _**imparare le basi di Angular, seguendo un corso Udemy**_, sviluppato con _**Angular**_ e _**Bootstrap**_. | <img src="./todo_udemy.png" /> <br> Progetto formativo creato per _**imparare le basi di Django, seguendo un corso Udemy**_, sviluppato con _**Django**_ e _**Bootstrap**_. |
 
+| 🐍 **[Django REST - Django](https://github.com/SimoneChiodo/django-rest.git)** |  |
+| :---: | :---: |
+| <img src="./django_rest.png" /> <br> Progetto formativo creato per _**imparare le basi del Django REST Framework, seguendo un corso**_, sviluppato con _**Django**_ e _**Django REST Framework**_. |  |
 
 
 ## 📊 GitHub Stats
